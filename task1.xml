@@ -1,279 +1,329 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<SEMESTER-V>
-	<syllabus>
-		<SNo>1</SNo>
-		<Scode>KCS501</Scode>
-		<Subject>DBMS</Subject>
-		    
-		    <Period_L>3</Period_L>
-			<Period_T>1</Period_T>
-			<Period_P>0</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>100</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>150</Total>
-		<Credit>4</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>2</SNo>
-		<Scode>KIT501</Scode>
-		<Subject>WEb Technology</Subject>
-		
-			<Period_L>3</Period_L>
-			<Period_T>1</Period_T>
-			<Period_P>0</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>100</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>150</Total>
-		<Credit>4</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>3</SNo>
-		<Scode>KCS503</Scode>
-		<Subject>DAA</Subject>
-		
-			<Period_L>3</Period_L>
-			<Period_T>1</Period_T>
-			<Period_P>0</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>100</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>150</Total>
-		<Credit>4</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>4</SNo>
-		<Scode>DE-I</Scode>
-		<Subject>Departmental Elective - I</Subject>
-		
-			<Period_L>3</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>0</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>100</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>150</Total>
-		<Credit>3</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>5</SNo>
-		<Scode>DE-II</Scode>
-		<Subject>Departmental Elective - II</Subject>
-		
-			<Period_L>3</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>0</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>100</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>150</Total>
-		<Credit>3</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>6</SNo>
-		<Scode>KCS551</Scode>
-		<Subject>DBMS Lab</Subject>
-		
-			<Period_L>0</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>2</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>25</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>NA</End_Sem_TE>
-			<End_Sem_PE>25</End_Sem_PE>
-		
-		<Total>50</Total>
-		<Credit>1</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>7</SNo>
-		<Scode>KIT551</Scode>
-		<Subject>WT Lab</Subject>
-		
-			<Period_L>0</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>2</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>25</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>NA</End_Sem_TE>
-			<End_Sem_PE>25</End_Sem_PE>
-		
-		<Total>50</Total>
-		<Credit>1</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>8</SNo>
-		<Scode>KCS553</Scode>
-		<Subject>DAA Lab</Subject>
-		
-			<Period_L>0</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>2</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>25</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>NA</End_Sem_TE>
-			<End_Sem_PE>25</End_Sem_PE>
-		
-		<Total>50</Total>
-		<Credit>1</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>9</SNo>
-		<Scode>KCS554</Scode>
-		<Subject>Mini Project or Internship Assessment*</Subject>
-		
-			<Period_L>0</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>2</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>50</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>NA</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>50</Total>
-		<Credit>1</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>10</SNo>
-		<Scode>NC*</Scode>
-		<Subject>COI</Subject>
-		
-			<Period_L>2</Period_L>
-			<Period_T>0</Period_T>
-			<Period_P>0</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>15</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>10</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>25</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>50</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>50</Total>
-		<Credit>0</Credit>
-	</syllabus>
-	
-	<syllabus>
-		<SNo>11</SNo>
-		<Scode>N/A*</Scode>
-		<Subject>MOOCs</Subject>
-		
-			<Period_L>NA</Period_L>
-			<Period_T>NA</Period_T>
-			<Period_P>NA</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>NA</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>NA</Total>
-		<Credit>2/4/6</Credit>
-	</syllabus>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "library.dtd">
+<library>
+	<book>
+		<sno>1</sno>
+		<subject>DBMS</subject>
+		<bookname> Database Concepts</bookname>
+		<edition>5</edition>
+		<publisher> McGraw Hill </publisher>
+		<author>Korth, Silbertz, Sudarshan</author>
+		<price>899</price>
+	</book>
+	<book>
+		<sno>2</sno>
+		<subject>DBMS</subject>
+		<bookname>Database Management Systems</bookname>
+		<edition>7</edition>
+		<publisher>McGraw Hill</publisher>
+		<author>RAMAKRISHNAN</author>
+		<price>1500</price>
+	</book>
+	<book>
+		<sno>3</sno>
+		<subject>WT</subject>
+		<bookname>Web Technology and Design</bookname>
+		<edition>5</edition>
+		<publisher>New Age International </publisher>
+		<author>Xavier, C</author>
+		<price>1299</price>
+	</book>
+    <book>
+		<sno>4</sno>
+		<subject>WT</subject>
+		<bookname>Programming in JAVA</bookname>
+		<edition>6</edition>
+		<publisher>TMH</publisher>
+		<author>Balagurusamy E</author>
+		<price>899</price>
+	</book>
+	<book>
+		<sno>5</sno>
+		<subject>DAA</subject>
+		<bookname>Introduction to Algorithms</bookname>
+		<edition>6</edition>
+		<publisher>Printice Hall of India</publisher>
+		<author>Thomas H. Coreman, Charles E. Leiserson and Ronald L. Rivest</author>
+		<price>3500</price>
+	</book>
+	<book>
+		<sno>6</sno>
+		<subject>DAA</subject>
+		<bookname>Algorithm Design and Analysis</bookname>
+		<edition>1</edition>
+		<publisher>Oxford University Press</publisher>
+		<author>Harsh Bhasin</author>
+		<price>2399</price>
+	</book>
+	<book>
+		<sno>7</sno>
+		<subject>Statistical Computing</subject>
+		<bookname>Fundamentals of Mathematical Statistics</bookname>
+		<edition>3</edition>
+		<publisher>Sultan Chand and Son</publisher>
+		<author>S.C. Gupta and V.K. Kapoor</author>
+		<price>1300</price>
+	</book>
+	<book>
+		<sno>8</sno>
+		<subject>Statistical Computing</subject>
+		<bookname>Numerical methods of statistics</bookname>
+		<edition>4</edition>
+		<publisher>Cambridge University Press</publisher>
+		<author>Monahan, J.F.</author>
+		<price>1600</price>
+	</book>
+	<book>
+		<sno>9</sno>
+		<subject>Compiler Design</subject>
+		<bookname>Introduction to Compiler Techniques</bookname>
+		<edition>2</edition>
+		<publisher>Tata McGraw-Hill</publisher>
+		<author>J.P. Bennet</author>
+		<price>1599</price>
+	</book>
+	<book>
+		<sno>10</sno>
+		<subject>CD</subject>
+		<bookname>Compiler Design</bookname>
+		<edition>1</edition>
+		<publisher>Oxford University Press</publisher>
+		<author>K. Muneeswaran</author>
+		<price>1899</price>
+	</book>
+	<book>
+		<sno>11</sno>
+		<subject>Comp. Graphics</subject>
+		<bookname>Computer Graphics C Version</bookname>
+		<edition>3</edition>
+		<publisher>Pearson Education</publisher>
+		<author>Donald Hearn and M Pauline Baker</author>
+		<price>2000</price>
+	</book>
+	<book>
+		<sno>12</sno>
+		<subject>Comp. Graphics</subject>
+		<bookname>Fundamentals of Computer graphics and Multimedia</bookname>
+		<edition>4</edition>
+		<publisher>PHI Learning Private Limited</publisher>
+		<author>Mukherjee</author>
+		<price>2499</price>
+	</book>
+	<book>
+		<sno>13</sno>
+		<subject>OOS Design</subject>
+		<bookname>OOPS with ANSI and Turbo C++</bookname>
+		<edition>2</edition>
+		<publisher>Pearson</publisher>
+		<author>Ashok Kamthane</author>
+		<price>2900</price>
+	</book>
+	<book>
+		<sno>14</sno>
+		<subject>OOS Design</subject>
+		<bookname>Object Oriented Modeling and Design</bookname>
+		<edition>2</edition>
+		<publisher>PHI</publisher>
+		<author>James Rumbaugh et. al</author>
+		<price>2300</price>
+	</book>
+	<book>
+		<sno>15</sno>
+		<subject>ML</subject>
+		<bookname>Machine Learning: An Algorithmic Perspective</bookname>
+		<edition>3</edition>
+		<publisher>CRC Press</publisher>
+		<author>Stephen Marsland</author>
+		<price>1400</price>
+	</book>
+	<book>
+		<sno>16</sno>
+		<subject>ML</subject>
+		<bookname>Machine Learning</bookname>
+		<edition>1</edition>
+		<publisher>McGraw-Hill</publisher>
+		<author>Tom M. Mitchell</author>
+		<price>1300</price>
+	</book>
+	<book>
+		<sno>17</sno>
+		<subject>AOSC</subject>
+		<bookname>Neural Netowrks</bookname>
+		<edition>3</edition>
+		<publisher>Prentice Hall</publisher>
+		<author>Siman Haykin</author>
+		<price>1299</price>
+	</book>
+	<book>
+		<sno>18</sno>
+		<subject>AOSC</subject>
+		<bookname>Neural Networks</bookname>
+		<edition>2</edition>
+		<publisher>Tata Mc Graw Hill</publisher>
+		<author> Kumar Satish</author>
+		<price>1550</price>
+	</book>
+	<book>
+		<sno>19</sno>
+		<subject>AR and VR</subject>
+		<bookname>Virtual Reality Systems</bookname>
+		<edition>1</edition>
+		<publisher>Addison Wesley</publisher>
+		<author>John Vince</author>
+		<price>2300</price>
+	</book>
+	<book>
+		<sno>20</sno>
+		<subject>AR and VR</subject>
+		<bookname>Virtual Reality Technology</bookname>
+		<edition>4</edition>
+		<publisher>Wiley Interscience</publisher>
+		<author>Burdea, Grigore C and Philippe Coiffet</author>
+		<price>2899</price>
+	</book>
+	<book>
+		<sno>21</sno>
+		<subject>HC Interface</subject>
+		<bookname> Human Computer Interaction</bookname>
+		<edition>3</edition>
+		<publisher>Prentice Hall</publisher>
+		<author>Alan Dix, Janet Finlay</author>
+		<price>1670</price>
+	</book>
+	<book>
+		<sno>22</sno>
+		<subject>HC Interface</subject>
+		<bookname>Research Methods in HumanComputer Interaction</bookname>
+		<edition>5</edition>
+		<publisher>Wiley</publisher>
+		<author> Jonathan Lazar, Harry Hochheiser</author>
+		<price>1600</price>
+	</book>
+	<book>
+		<sno>23</sno>
+		<subject>SE</subject>
+		<bookname>Software Engineering</bookname>
+		<edition>2</edition>
+		<publisher>Wiley</publisher>
+		<author>Pankaj Jalote</author>
+		<price>1499</price>
+	</book>
+	<book>
+		<sno>24</sno>
+		<subject>SE</subject>
+		<bookname>Software Engineering</bookname>
+		<edition>1</edition>
+		<publisher>Macmillan Publication</publisher>
+		<author>P fleeger</author>
+		<price>1299</price>
+	</book>
+	<book>
+		<sno>25</sno>
+		<subject>DA</subject>
+		<bookname>Intelligent Data Analysis</bookname>
+		<edition>2</edition>
+		<publisher>Springer</publisher>
+		<author>Michael Berthold, David J. Hand</author>
+		<price>1299</price>
+	</book>
+	<book>
+		<sno>26</sno>
+		<subject>DA</subject>
+		<bookname>Mining of Massive Datasets</bookname>
+		<edition>3</edition>
+		<publisher>Cambridge University Press</publisher>
+		<author>Anand Rajaraman</author>
+		<price>1899</price>
+	</book>
+	<book>
+		<sno>27</sno>
+		<subject>CN</subject>
+		<bookname>Computer Networks and Internets</bookname>
+		<edition>4</edition>
+		<publisher>Pearson</publisher>
+		<author>D. Comer</author>
+		<price>1600</price>
+	</book>
+	<book>
+		<sno>28</sno>
+		<subject>CN</subject>
+		<bookname>TCP/IP Protocol Suite</bookname>
+		<edition>3</edition>
+		<publisher>McGraw Hill</publisher>
+		<author>Behrouz Forouzan</author>
+		<price>899</price>
+	</book>
+	<book>
+		<sno>29</sno>
+		<subject>Big Data</subject>
+		<bookname>Big Data Glossary</bookname>
+		<edition>4</edition>
+		<publisher>O’Reilly</publisher>
+		<author>Pete Warden</author>
+		<price>1365</price>
+	</book>
+	<book>
+		<sno>30</sno>
+		<subject>Big Data</subject>
+		<bookname>Programming Pig</bookname>
+		<edition>2</edition>
+		<publisher>O'Reilly</publisher>
+		<author>Alan Gates</author>
+		<price>1500</price>
+	</book>
+	<book>
+		<sno>31</sno>
+		<subject>Img. Proc.</subject>
+		<bookname>Fundamentals of Digital Image Processing</bookname>
+		<edition>2</edition>
+		<publisher>Pearson</publisher>
+		<author>Anil K. Jain</author>
+		<price>1380</price>
+	</book>
+	<book>
+		<sno>32</sno>
+		<subject>Img. Proc.</subject>
+		<bookname>Digital Image Processing</bookname>
+		<edition>3</edition>
+		<publisher>John Wiley</publisher>
+		<author>William K. Pratt</author>
+		<price>1600</price>
+	</book>
+	<book>
+		<sno>33</sno>
+		<subject>Blockchain</subject>
+		<bookname>Mstering Bitcoin: Unlocking Digital Cryptocurrencies</bookname>
+		<edition>2</edition>
+		<publisher>O’Reilly</publisher>
+		<author>Andreas Antonopoulos</author>
+		<price>2200</price>
+	</book>
+	<book>
+		<sno>34</sno>
+		<subject>Blockchain</subject>
+		<bookname>Blockchain Development</bookname>
+		<edition>4</edition>
+		<publisher>O’Reilly</publisher>
+		<author>Melanie Swa</author>
+		<price>1345</price>
+	</book>
+	<book>
+		<sno>35</sno>
+		<subject>Data Comp.</subject>
+		<bookname>Text Compression1st Edition</bookname>
+		<edition>2</edition>
+		<publisher>Prentice Hall</publisher>
+		<author> Timothy C. Bell</author>
+		<price>1800</price>
+	</book>
+	<book>
+		<sno>36</sno>
+		<subject>Data Comp.</subject>
+		<bookname> Elements of Data Compression</bookname>
+		<edition>2</edition>
+		<publisher>Cengage Learning</publisher>
+		<author>Drozdek</author>
+		<price>1650</price>
+	</book>
 
-	<syllabus>
-		<SNo>NA</SNo>
-		<Scode>N/A*</Scode>
-		<Subject>Total</Subject>
-		
-			<Period_L>17</Period_L>
-			<Period_T>3</Period_T>
-			<Period_P>8</Period_P>
-		
-		
-			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
-			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
-			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
-			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
-		
-		
-			<End_Sem_TE>NA</End_Sem_TE>
-			<End_Sem_PE>NA</End_Sem_PE>
-		
-		<Total>950</Total>
-		<Credit>22</Credit>
-	</syllabus>
-
-</SEMESTER-V>
+</library>
