@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h1>Student Details</h1>
+<center><h1>WELCOME TO IT DEPARTMENT LIBRARY</h1></center>
 <script>
   if (window.XMLHttpRequest) {
     xmlhttp=new XMLHttpRequest();
@@ -12,44 +12,30 @@
   {
     xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
-xmlhttp.open("GET","task1.xml",false);
+xmlhttp.open("GET","library.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 
 document.write("<table border='1' width='100%' style='font-size:25px;'>");
 document.write(
-  "<tr><th>S.No.</th><th>Subject Codes</th><th>Subjects</th><th>Period L</th><th>Period T</th><th>Period P</th><th>Evaluation Scheme CT</th><th>Evaluation Scheme TA</th><th>Evaluation Scheme Total</th><th>Evaluation Scheme PS</th><th>End Sem TE</th><th>End Sem PE</th><th>Total</th><th>Credit</th></tr>");
-var x=xmlDoc.getElementsByTagName("syllabus");
+  "<tr><th>S.No.</th><th>Subject</th><th>Book Name</th><th>Edition</th><th>Publisher</th><th>Author</th><th>Price</th></tr>");
+var x=xmlDoc.getElementsByTagName("book");
 for(i=0;i<x.length;i++)
 {
   document.write("<tr><td>");
-  document.write(xmlDoc.getElementsByTagName("SNo")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("sno")[i].childNodes[0].nodeValue);
   document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Scode")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("subject")[i].childNodes[0].nodeValue);
   document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Subject")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("bookname")[i].childNodes[0].nodeValue);
   document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Period_L")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("edition")[i].childNodes[0].nodeValue);
   document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Period_T")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("publisher")[i].childNodes[0].nodeValue);
   document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Period_P")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("author")[i].childNodes[0].nodeValue);
   document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Evaluation_Scheme_CT")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Evaluation_Scheme_TA")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Evaluation_Scheme_Total")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Evaluation_Scheme_PS")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("End_Sem_TE")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("End_Sem_PE")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Total")[i].childNodes[0].nodeValue);
-  document.write("</td><td>");
-  document.write(xmlDoc.getElementsByTagName("Credit")[i].childNodes[0].nodeValue);
+  document.write(xmlDoc.getElementsByTagName("price")[i].childNodes[0].nodeValue);
   document.write("</td></tr>");
 }
 document.write("</table>");
