@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SEMESTER-V>
+	<syllabus>
+		<SNo>1</SNo>
+		<Scode>KCS501</Scode>
+		<Subject>DBMS</Subject>
+		    
+		    <Period_L>3</Period_L>
+			<Period_T>1</Period_T>
+			<Period_P>0</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>100</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>150</Total>
+		<Credit>4</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>2</SNo>
+		<Scode>KIT501</Scode>
+		<Subject>WEb Technology</Subject>
+		
+			<Period_L>3</Period_L>
+			<Period_T>1</Period_T>
+			<Period_P>0</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>100</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>150</Total>
+		<Credit>4</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>3</SNo>
+		<Scode>KCS503</Scode>
+		<Subject>DAA</Subject>
+		
+			<Period_L>3</Period_L>
+			<Period_T>1</Period_T>
+			<Period_P>0</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>100</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>150</Total>
+		<Credit>4</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>4</SNo>
+		<Scode>DE-I</Scode>
+		<Subject>Departmental Elective - I</Subject>
+		
+			<Period_L>3</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>0</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>100</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>150</Total>
+		<Credit>3</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>5</SNo>
+		<Scode>DE-II</Scode>
+		<Subject>Departmental Elective - II</Subject>
+		
+			<Period_L>3</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>0</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>30</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>20</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>50</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>100</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>150</Total>
+		<Credit>3</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>6</SNo>
+		<Scode>KCS551</Scode>
+		<Subject>DBMS Lab</Subject>
+		
+			<Period_L>0</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>2</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>25</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>NA</End_Sem_TE>
+			<End_Sem_PE>25</End_Sem_PE>
+		
+		<Total>50</Total>
+		<Credit>1</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>7</SNo>
+		<Scode>KIT551</Scode>
+		<Subject>WT Lab</Subject>
+		
+			<Period_L>0</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>2</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>25</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>NA</End_Sem_TE>
+			<End_Sem_PE>25</End_Sem_PE>
+		
+		<Total>50</Total>
+		<Credit>1</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>8</SNo>
+		<Scode>KCS553</Scode>
+		<Subject>DAA Lab</Subject>
+		
+			<Period_L>0</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>2</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>25</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>NA</End_Sem_TE>
+			<End_Sem_PE>25</End_Sem_PE>
+		
+		<Total>50</Total>
+		<Credit>1</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>9</SNo>
+		<Scode>KCS554</Scode>
+		<Subject>Mini Project or Internship Assessment*</Subject>
+		
+			<Period_L>0</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>2</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>50</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>NA</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>50</Total>
+		<Credit>1</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>10</SNo>
+		<Scode>NC*</Scode>
+		<Subject>COI</Subject>
+		
+			<Period_L>2</Period_L>
+			<Period_T>0</Period_T>
+			<Period_P>0</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>15</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>10</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>25</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>50</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>50</Total>
+		<Credit>0</Credit>
+	</syllabus>
+	
+	<syllabus>
+		<SNo>11</SNo>
+		<Scode>N/A*</Scode>
+		<Subject>MOOCs</Subject>
+		
+			<Period_L>NA</Period_L>
+			<Period_T>NA</Period_T>
+			<Period_P>NA</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>NA</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>NA</Total>
+		<Credit>2/4/6</Credit>
+	</syllabus>
+
+	<syllabus>
+		<SNo>NA</SNo>
+		<Scode>N/A*</Scode>
+		<Subject>Total</Subject>
+		
+			<Period_L>17</Period_L>
+			<Period_T>3</Period_T>
+			<Period_P>8</Period_P>
+		
+		
+			<Evaluation_Scheme_CT>NA</Evaluation_Scheme_CT>
+			<Evaluation_Scheme_TA>NA</Evaluation_Scheme_TA>
+			<Evaluation_Scheme_Total>NA</Evaluation_Scheme_Total>
+			<Evaluation_Scheme_PS>NA</Evaluation_Scheme_PS>
+		
+		
+			<End_Sem_TE>NA</End_Sem_TE>
+			<End_Sem_PE>NA</End_Sem_PE>
+		
+		<Total>950</Total>
+		<Credit>22</Credit>
+	</syllabus>
+
+</SEMESTER-V>
